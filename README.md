@@ -1,4 +1,4 @@
-## AntSword 加载器
+## AntSword 加载器 ![release](https://img.shields.io/badge/release-v2.0.1-blue.svg?style=flat-square)
 
 ### 如何使用
 
@@ -6,8 +6,8 @@
 
 操作系统 | 下载地址 | MD5
 :--|:--|:--
-OSX | [AntSword-darwin-v2.0.0-x64.dmg](https://github.com/AntSwordProject/AntSword-Loader/releases/download/2.0.0/AntSword-darwin-v2.0.0-x64.dmg) | 6a6e4e00dcc00993c08a0ceeba81f09d
-Linux 64位 | [AntSword-linux-v2.0.0-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/releases/download/2.0.0/AntSword-linux-v2.0.0-x64.zip) | 4f679dcf1b47c2b4af7456db21292890
-Windows 64位 | [AntSword-windows-v2.0.0-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/releases/download/2.0.0/AntSword-windows-v2.0.0-x64.zip) | 309e853b44302f67fb9ec26a19db6c59
+OSX | [AntSword-v2.0.1-darwin-x64.dmg](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.1/AntSword-v2.0.1-darwin-x64.dmg) | 2e700888b6ea329548fbc875a3443d97
+Linux 64位 | [AntSword-v2.0.1-linux-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.1/AntSword-v2.0.1-linux-x64.zip) | 5f9da5d671d750563d65a115c52d6d20
+Windows 64位 | [AntSword-v2.0.1-windows-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.1/AntSword-v2.0.1-windows-x64.zip) | 981ea1f4f253747d5035cc9b1ff97d64
 
 **注意**：官方加载器仅在 `https://github.com/AntSwordProject/AntSword-Loader` 发布，不会在网盘等其它网站发布，下载后请第一时间校验 md5 值
