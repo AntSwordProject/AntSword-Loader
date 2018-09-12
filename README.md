@@ -11,3 +11,8 @@ Linux 64位 | [AntSword-v2.0.1-linux-x64.zip](https://github.com/AntSwordProject
 Windows 64位 | [AntSword-v2.0.1-windows-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.1/AntSword-v2.0.1-windows-x64.zip) | 981ea1f4f253747d5035cc9b1ff97d64
 
 **注意**：官方加载器仅在 `https://github.com/AntSwordProject/AntSword-Loader` 发布，不会在网盘等其它网站发布，下载后请第一时间校验 md5 值
+
+### 已知问题
+
+* Kali Linux 无法直接启动，参见 #3
+* 自动下载功能需要挂全局代理，否则安装包下载出错率较高
