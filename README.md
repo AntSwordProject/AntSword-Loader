@@ -14,5 +14,5 @@ Windows 64位 | [AntSword-v2.0.1-windows-x64.zip](https://github.com/AntSwordPro
 
 ### 已知问题
 
-* Kali Linux 无法直接启动，参见 #3
+* Kali Linux 无法直接启动，参见 [#3](https://github.com/AntSwordProject/AntSword-Loader/issues/3)
 * 自动下载功能需要挂全局代理，否则安装包下载出错率较高
